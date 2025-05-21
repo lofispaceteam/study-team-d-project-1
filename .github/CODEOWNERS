@@ -1,2 +1,3 @@
-Dockerfile @devops
-* @reviewers
+# .github/CODEOWNERS
+Dockerfile   @lofispaceTeam/devops
+*            @lofispaceTeam/reviewers
